@@ -98,4 +98,3 @@ def all_holidays_with_bbq(holiday_hash)
           answer.push(holiday)
       end
     end  
-end
