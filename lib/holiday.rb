@@ -37,8 +37,8 @@ end
 
 
 def add_supply_to_memorial_day(holiday_hash, supply)
-  holiday_hash[:winter].each do |holiday, decorations|
-    decorations.push << 
+  holiday_hash[:spring].each do |holiday, decorations|
+    decorations.push << ""
 
   # again, holiday_hash is the same as the ones above
   # add the second argument to the memorial day array
